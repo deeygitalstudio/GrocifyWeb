@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GrocifyWeb/static/css/main.806bd67d.css",
+    "main.js": "/GrocifyWeb/static/js/main.ab2ab581.js",
+    "static/js/787.cb7443fb.chunk.js": "/GrocifyWeb/static/js/787.cb7443fb.chunk.js",
+    "static/media/Image.png": "/GrocifyWeb/static/media/Image.36c4164539e572acaba7.png",
+    "static/media/grocery-image.png": "/GrocifyWeb/static/media/grocery-image.53bbd0a05584ae321b0d.png",
+    "index.html": "/GrocifyWeb/index.html",
+    "main.806bd67d.css.map": "/GrocifyWeb/static/css/main.806bd67d.css.map",
+    "main.ab2ab581.js.map": "/GrocifyWeb/static/js/main.ab2ab581.js.map",
+    "787.cb7443fb.chunk.js.map": "/GrocifyWeb/static/js/787.cb7443fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.806bd67d.css",
+    "static/js/main.ab2ab581.js"
+  ]
+}
